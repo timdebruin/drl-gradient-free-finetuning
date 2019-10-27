@@ -1,0 +1,15 @@
+matplotlib
+gym
+box2d-py
+-e git+git://github.com/timdebruin/CoR-control-benchmarks#egg=CoR-control-benchmarks
+PyInquirer
+numpy
+tqdm
+cma
+keras
+pandas
+seaborn
+pymongo
+dnspython
+sacred
+gitpython
