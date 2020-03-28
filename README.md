@@ -1,6 +1,6 @@
-# Deep Reinforcement Learning - Beyond Gradient-Based Optimization
+# Fine-tuning Deep RL with Gradient-Free Optimization
 
-This code accompanies the paper "Deep Reinforcement Learning - Beyond Gradient-Based Optimization" by *Tim de Bruin, Jens Kober, Robert Babuska and karl Tuyls.*
+This code accompanies the paper "Fine-tuning Deep RL with Gradient-Free Optimization" by *Tim de Bruin, Jens Kober, Robert Babuska and karl Tuyls.*
 
 Compared to the code that was used to obtain the experimental results, this version has been refactored and simplified. It should allow for reproducing the results, but has not been extensively tested.
 
